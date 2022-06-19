@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ukolList\ukolList\bin\Debug\ukolList.exe.config
+C:\Users\marsy\Source\Repos\ukolList\ukolList\bin\Debug\ukolList.exe
+C:\Users\marsy\Source\Repos\ukolList\ukolList\bin\Debug\ukolList.pdb
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.Form1.resources
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.exe
+C:\Users\marsy\Source\Repos\ukolList\ukolList\obj\Debug\ukolList.pdb
